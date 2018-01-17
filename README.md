@@ -1,4 +1,4 @@
-# Github Preview Theme
+# Monokai Code Block Preview Theme
 
 A custom Markdown preview theme for [Inkdrop](https://www.inkdrop.info/).
 
