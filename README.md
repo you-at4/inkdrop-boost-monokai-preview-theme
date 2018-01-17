@@ -1,9 +1,9 @@
 # Github Preview Theme
 
-A default Markdown preview theme for [Inkdrop](https://www.inkdrop.info/).
+A custom Markdown preview theme for [Inkdrop](https://www.inkdrop.info/).
 
- * `styles/github-markdown.less` - Styles for light UI theme
- * `styles/github-markdown-dark.less` - Styles for dark UI theme
+ * `styles/monokai-code-block.less` - Styles for light UI theme
+ * `styles/monokai-code-block-dark.less` - Styles for dark UI theme
 
 ## Theming code blocks
 

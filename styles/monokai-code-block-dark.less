@@ -1,4 +1,19 @@
+@code-block-theme: 'monokai';
+
 body[class*="dark-ui"] {
+
+  .mde-preview {
+    @import '@{code-block-theme}';
+    pre {
+      .CodeMirror !important;
+      ::selection {
+        .CodeMirror-selected;
+        color: unset !important;
+      }
+    }
+  }
+
+
   .mde-preview {
     color: rgba(255, 255, 255, 0.7);
   }
