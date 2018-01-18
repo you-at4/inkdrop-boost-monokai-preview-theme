@@ -1,13 +1,13 @@
 {
-  "name": "monokai-code-block-prev",
-  "description": "Monokai code block theme for Inkdrop Markdown Editor",
+  "name": "boost-monokai-code-block-prev",
+  "description": "Boost preview theme and Monokai code block theme for Inkdrop Markdown Editor",
   "version": "0.1.0",
   "theme": "preview",
   "repository": "https://github.com/inkdropapp/inkdrop-github-preview-theme",
   "license": "MIT",
   "styleSheets": [
-    "monokai-code-block.less",
-    "monokai-code-block-dark.less"
+    "boost-monokai-code-block.less",
+    "boost-monokai-code-block-dark.less"
   ],
   "engines": {
     "inkdrop": ">=3.12.0"
